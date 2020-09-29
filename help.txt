@@ -1,0 +1,8 @@
+
+first create datebase using 'Creating MyPhonebookDB.sql'
+
+
+
+Connection String
+for Attach Database= "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\myPhonebookDB.mdf;Integrated Security=True"
+for SqlDatabase Server= "Data Source=.;Initial Catalog=myPhonebookDB;Integrated Security=True"
